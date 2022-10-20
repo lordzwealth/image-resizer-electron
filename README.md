@@ -1,4 +1,4 @@
-# image-resizer-electron
+# Image Resizer
 An Image Resizer Desktop App Using Electron
 That helps you select an image and easily change the width/height
 
@@ -6,8 +6,7 @@ That helps you select an image and easily change the width/height
 <img src="./assets/screen.png" width="400" />
 </div>
 
-
-##Usage
+## Usage
 
 Install Dependencies:
 
